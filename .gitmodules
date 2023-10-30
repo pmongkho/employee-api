@@ -1,3 +1,0 @@
-[submodule "employee-api"]
-	path = employee-api
-	url = https://github.com/pmongkho/employee-api.git
