@@ -49,3 +49,4 @@
 /Users/phongsavanhmongkhonvilay/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CS PROJECTS/DOTNET/EmployeeApi/obj/Debug/net7.0/EmployeeApi.pdb
 /Users/phongsavanhmongkhonvilay/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CS PROJECTS/DOTNET/EmployeeApi/obj/Debug/net7.0/EmployeeApi.genruntimeconfig.cache
 /Users/phongsavanhmongkhonvilay/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CS PROJECTS/DOTNET/EmployeeApi/obj/Debug/net7.0/ref/EmployeeApi.dll
+/Users/phongsavanhmongkhonvilay/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CS PROJECTS/DOTNET/EmployeeApi/obj/Debug/net7.0/EmployeeApi.sourcelink.json
